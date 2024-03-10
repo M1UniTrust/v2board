@@ -10,7 +10,7 @@
 
 ## aapanel部署指南
 
-按以下步骤进行面板文件迁移：
+除了拉源码，其他安装步骤参考原版V2Board
 
     git clone https://github.com/wyx2685/v2board.git ./  
 
