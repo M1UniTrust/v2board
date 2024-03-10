@@ -9,7 +9,7 @@
  - [V2bX](https://github.com/InazumaV/V2bX)
 
 ## aapanel部署指南
- git clone https://github.com/wyx2685/v2board.git ./
+   git clone https://github.com/wyx2685/v2board.git ./
 
 ## 原版迁移步骤
 
