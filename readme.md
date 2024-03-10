@@ -9,7 +9,10 @@
  - [V2bX](https://github.com/InazumaV/V2bX)
 
 ## aapanel部署指南
-   git clone https://github.com/wyx2685/v2board.git ./
+
+按以下步骤进行面板文件迁移：
+
+    git clone https://github.com/wyx2685/v2board.git ./  
 
 ## 原版迁移步骤
 
